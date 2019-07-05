@@ -13,8 +13,7 @@ horasBorrarFoto = [(16, 10)] #Es necesario para que la metrica en la grafica mue
 horasEnviarTelegram = [(6, 0),
                       (10, 0),
                       (14, 0),
-                      (18, 0),
-                      (22, 0)]
+                      (18, 0)]
 
 horasEjecutarRobot = [(1, 0),
                       (2, 0),
